@@ -1,0 +1,17 @@
+{
+  "name": "local-zoo",
+  "homepage": "https://github.com/moinstla/festival-ruby-group-project",
+  "authors": [
+    "Monique St. Laurent <moinstla@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
