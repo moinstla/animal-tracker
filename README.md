@@ -1,6 +1,6 @@
 # Animal Tracker
 
-#### #### AngularJS Independent Project, 5/27/20176/9/2017
+#### AngularJS Independent Project, 6/9/2017
 
 #### By Monique St Laurent
 
