@@ -20,7 +20,7 @@ You will need the following things properly installed on your computer.
 * `npm install`
 * `bower install`
 * `gulp serve`
-* Visit your app at [http://localhost:4200](http://localhost:3000).
+* Visit your app at [http://localhost:4200]
 
 ## Technologies Used
 
